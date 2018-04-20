@@ -63,6 +63,6 @@
 
 ### Team
 
- 1. concentric rings of people/teams according to their strategic relevance to the business
+ 1. concentric rings of people/teams according to their strategic relevance to the business, keep important talent close
  1. contract -> hire if at all possible, do not hire in high-bureaucracy/burden countries
  1. Both SG and CH are small / shallow engineering talent markets, identify and build a near-shore tech team/centre
