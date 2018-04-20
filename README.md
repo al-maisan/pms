@@ -61,7 +61,7 @@
 
  1. do a first threat model / risk analysis pass
  1. educate people on [opsec](https://www.tripwire.com/state-of-security/security-data-protection/opsec-everyone-not-just-people-something-hide/) (particularly the business types)
- 1. secure **all** accounts with 2FA ([trezor](https://doc.satoshilabs.com/trezor-user/u2f.html), [yubikey](https://www.yubico.com/product/yubikey-neo/))
+ 1. secure **all** accounts with 2FA ([trezor](https://doc.satoshilabs.com/trezor-user/u2f.html)?, [yubikey](https://www.yubico.com/product/yubikey-neo/)?)
  1. internal artefact classification system (public / confidential / secret); how are artefacts secured?
  1. Facilitate access on a "need to know basis"; how do we make sure the right people have appropriate access?
  1. select the tools / providers for
