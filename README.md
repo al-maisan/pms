@@ -29,8 +29,8 @@
 
 ## Business
 
- 1. budget planning?
- 1. what is the budget for technology, engineering and R&D specifically?
+ 1. budget and head count planning?
+ 1. what is the budget/head count for technology, engineering and R&D specifically?
 
 ## Technology, engineering and R&D
 
@@ -62,7 +62,6 @@
 #### Requirements
  1. what needs to be secure to what degree?
  1. compliance environment (regulatory and industry)
- 1. data exfiltration prevention
 
 #### The nitty-gritty
 
@@ -80,11 +79,11 @@
 ### Technology selection
 
  1. define selection criteria up-front and in writing (what is important and what are we looking for?)
- 1. lean to the open source
+ 1. lean toward open source
  1. pick tech backed by strong teams
  1. ignore bullshit and hype
  1. try the tech, build prototypes
- 1. document the candidates and why something was chosen in the end
+ 1. document the considered tech as well as what was chosen in the end for what reason
 
 ### Team
 
@@ -94,4 +93,4 @@
 
 ### Advisors
 
-We will need to retain advisors on crypto, security and blockchain matters. These people will not work for us full time but be available for design workshops as well as audits/assessments/QA for any solutions we come up with. See e.g. the [speaker's list here](https://binarydistrict.com/courses/master-workshop-off-the-chain/) to get an idea of the kind of people we will need to engage.
+We will need to retain advisors on crypto, security and blockchain matters. These people will not work for us full time but be available for design workshops as well as audits/assessments/QA of any solutions we come up with. See e.g. the [speaker's list here](https://binarydistrict.com/courses/master-workshop-off-the-chain/) to get an idea of the kind of people we will need to engage.
