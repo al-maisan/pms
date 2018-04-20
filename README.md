@@ -56,14 +56,16 @@
 
 #### The nitty-gritty
 
- 1. do a first thread model / risk analysis pass
- 1. secure all accounts with 2FA ([trezor](https://doc.satoshilabs.com/trezor-user/u2f.html), [yubikey](https://www.yubico.com/product/yubikey-neo/))
+ 1. do a first threat model / risk analysis pass
+ 1. secure **all** accounts with 2FA ([trezor](https://doc.satoshilabs.com/trezor-user/u2f.html), [yubikey](https://www.yubico.com/product/yubikey-neo/))
  1. internal artefact classification system (public / confidential / secret); how are artefacts secured?
  1. Facilitate access on a "need to know basis"; how do we make sure the right people have appropriate access?
  1. select the tools / providers for
-    1. email (protonmail)
-    1. collaboration (GSuite(?), wiki, kanban board, scrum)
-    1. messaging (signal / wire?)
+    1. email (protonmail?)
+    1. collaboration (GSuite(?), [wiki](https://www.atlassian.com/software/confluence), kanban board, scrum)
+    1. messaging (signal / wire.com?)
+ 1. migrate away from windows, lock down laptops / phones
+
 ### Technology selection
 
  1. define selection criteria up-front and in writing (what is important and what are we looking for?)
