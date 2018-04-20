@@ -32,6 +32,7 @@
 ### Culture
 
  1. business & technology are equal partners
+ 1. BIG money rides on top of our products / services - think security from the get-go (anti-patterns: Microsoft & FB)!
  1. lean to the engineering side (compromise between time, cost and features, no perfectionism)
  1. data driven, no bullshit; don't delay bad news.
  1. don't fall for your own (or anyone else's hype, [example](https://cointelegraph.com/news/we-dont-need-blockchain-r3-consortium-after-59-million-research)). Do what needs done.
@@ -62,4 +63,6 @@
 
 ### Team
 
- 1. lean two
+ 1. concentric rings of people/teams according to their strategic relevance to the business
+ 1. contract -> hire if at all possible, do not hire in high-bureaucracy/burden countries
+ 1. Both SG and CH are small / shallow engineering talent markets, identify and build a near-shore tech team/centre
