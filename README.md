@@ -1,2 +1,39 @@
-# pms
-Project moonshot
+# Project moonshot (PMS)
+
+## Top priorities
+ 1. Vision
+ 1. Team
+ 1. Culture
+
+### Vision
+
+### Team
+ 1. Who is on the team?
+ 1. Why were they chosen?
+ 1. What skill / value do they contribute?
+ 1. Are they in an operative / advisory role?
+ 1. Diversity of backgrounds, skills and experience?
+ 1. How are the advisors interacting with the operatives?
+
+### Culture
+ 1. Responsibility / authority
+ 1. How do we make decisions? 
+ 1. How do we resolve conflicts and disputes?
+ 1. On what basis do we determine what is important and set priorities?
+
+## What has happened so far?
+ 1. What decisions have been taken?
+ 1. What promises have been made?
+ 1. On what grounds?
+ 1. Which of these impact the technical side of the business?
+
+## Technology
+
+### Strategy 
+ 1. What are the major goals and priorities of the business?
+ 1. What kind of business do we aspire to become?
+    1. high-tech? with important / foundational technology developed in-house?
+    1. integrator? where we assemble existing solutions and integrate / repackage them in a product / service offering
+    1. a combination of the two? If so, how are these aspects balanced / determined? What are the drivers?
+    1. Will we operate our own products? Or license them to 3rd parties? Or both? What are the requirements arising from this?
+
