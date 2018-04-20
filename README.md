@@ -34,9 +34,10 @@
  1. lean to the engineering side (compromise between time, cost and features, no perfectionism)
  1. data driven, no bullshit. Don't delay bad news.
  1. don't fall for your own (or anyone else's hype, [example](https://cointelegraph.com/news/we-dont-need-blockchain-r3-consortium-after-59-million-research)). Do what needs done.
- 1. If you don't know what you are doing, say it, then execute cheap experiments and learn that way.
+ 1. If you don't know what you are doing, say it, then carry out cheap(!) experiments and learn that way.
  1. question business requirements and feed back what is possible and/or reasonable
  1. be incremental and iterative, always experiment!
+ 1. if you screw up something, fess up and clean up without delay
 
 ### Strategy 
 
@@ -49,6 +50,7 @@
 
 ### Technology selection
 
+ 1. define selection criteria up-front in writing (what is important and what you are looking for?)
  1. lean to the open source
  1. pick tech backed by strong teams
  1. ignore bullshit and hype
