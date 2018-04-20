@@ -45,17 +45,18 @@
  1. question business requirements (especially the expensive ones!) and feed back what is possible and/or reasonable
  1. be incremental and iterative, always experiment!
  1. if you screw up something, fess up and clean up without delay
- 1. lean toward high-quality where possible and appropriate
+ 1. lean toward high quality where possible and appropriate
 
 ### Strategy 
 
  1. What are the major goals and priorities of the business?
+ 1. What are the phases and milestones? What is the game plan?
  1. What kind of business do we aspire to become?
-    1. high-tech? with important / foundational technology developed in-house?
+    1. high-tech? with critical / foundational technology developed in-house?
     1. integrator? where we assemble existing solutions and integrate / repackage them in a product / service offering
     1. a combination of the two? If so, how are these aspects balanced / determined? What are the drivers?
     1. Will we operate our own products? Or license them to 3rd parties? Or both? What are the requirements arising from this?
- 1. Nothing is forever, make decisions / choices that are good for N months and have a plan how to move forward once these "expire"
+ 1. Nothing is forever, make decisions / choices that are good for X months and have a plan how to move forward once these "expire"
 
 ### Security
 
