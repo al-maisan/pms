@@ -49,14 +49,17 @@
     1. integrator? where we assemble existing solutions and integrate / repackage them in a product / service offering
     1. a combination of the two? If so, how are these aspects balanced / determined? What are the drivers?
     1. Will we operate our own products? Or license them to 3rd parties? Or both? What are the requirements arising from this?
+ 1. Nothing is forever, make decisions / choices that are good for N months and have a plan how to move forward once these "expire"
 
 ### Technology selection
 
- 1. define selection criteria up-front and in writing (what is important and what you are looking for?)
+ 1. define selection criteria up-front and in writing (what is important and what are we looking for?)
  1. lean to the open source
  1. pick tech backed by strong teams
  1. ignore bullshit and hype
  1. try the tech, build prototypes
  1. document the candidates and why something was chosen in the end
 
+### Team
 
+ 1. lean two
