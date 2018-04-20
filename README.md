@@ -27,7 +27,16 @@
  1. On what grounds?
  1. Which of these impact the technical side of the business?
 
-## Technology
+## Technology and engineering
+
+### Culture
+
+ 1. lean to the engineering side (compromise between time, cost and features, no perfectionism)
+ 1. data driven, no bullshit. Don't delay bad news.
+ 1. don't fall for your own (or anyone else's hype, [example](https://cointelegraph.com/news/we-dont-need-blockchain-r3-consortium-after-59-million-research)). Do what needs done.
+ 1. If you don't know what you are doing, say it, then execute cheap experiments and learn that way.
+ 1. question business requirements and feedback what is possible and/or reasonable
+ 1. experiment!
 
 ### Strategy 
  1. What are the major goals and priorities of the business?
@@ -36,4 +45,7 @@
     1. integrator? where we assemble existing solutions and integrate / repackage them in a product / service offering
     1. a combination of the two? If so, how are these aspects balanced / determined? What are the drivers?
     1. Will we operate our own products? Or license them to 3rd parties? Or both? What are the requirements arising from this?
+
+### Technology selection
+
 
