@@ -52,6 +52,18 @@
     1. Will we operate our own products? Or license them to 3rd parties? Or both? What are the requirements arising from this?
  1. Nothing is forever, make decisions / choices that are good for N months and have a plan how to move forward once these "expire"
 
+### Security
+
+#### The nitty-gritty
+
+ 1. do a first thread model / risk analysis pass
+ 1. secure all accounts with 2FA ([trezor](https://doc.satoshilabs.com/trezor-user/u2f.html), [yubikey](https://www.yubico.com/product/yubikey-neo/))
+ 1. internal artefact classification system (public / confidential / secret); how are artefacts secured?
+ 1. Facilitate access on a "need to know basis"; how do we make sure the right people have appropriate access?
+ 1. select the tools / providers for
+    1. email (protonmail)
+    1. collaboration (GSuite(?), wiki, kanban board, scrum)
+    1. messaging (signal / wire?)
 ### Technology selection
 
  1. define selection criteria up-front and in writing (what is important and what are we looking for?)
@@ -65,4 +77,4 @@
 
  1. concentric rings of people/teams according to their strategic relevance to the business, keep important talent close
  1. contract -> hire if at all possible, do not hire in high-bureaucracy/burden countries
- 1. Both SG and CH are small / shallow engineering talent markets, identify and build a near-shore tech team/centre
+ 1. Both SG and CH are small / shallow engineering talent markets, identify and build a near-shore tech team/centre (Eastern Europe!)
