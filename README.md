@@ -33,7 +33,7 @@
 
  1. business & technology are equal partners
  1. lean to the engineering side (compromise between time, cost and features, no perfectionism)
- 1. data driven, no bullshit. Don't delay bad news.
+ 1. data driven, no bullshit; don't delay bad news.
  1. don't fall for your own (or anyone else's hype, [example](https://cointelegraph.com/news/we-dont-need-blockchain-r3-consortium-after-59-million-research)). Do what needs done.
  1. If you don't know what you are doing, say it, then carry out cheap(!) experiments and learn that way.
  1. question business requirements (especially the expensive ones!) and feed back what is possible and/or reasonable
