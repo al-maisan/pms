@@ -35,10 +35,11 @@
  1. data driven, no bullshit. Don't delay bad news.
  1. don't fall for your own (or anyone else's hype, [example](https://cointelegraph.com/news/we-dont-need-blockchain-r3-consortium-after-59-million-research)). Do what needs done.
  1. If you don't know what you are doing, say it, then execute cheap experiments and learn that way.
- 1. question business requirements and feedback what is possible and/or reasonable
- 1. experiment!
+ 1. question business requirements and feed back what is possible and/or reasonable
+ 1. be incremental and iterative, always experiment!
 
 ### Strategy 
+
  1. What are the major goals and priorities of the business?
  1. What kind of business do we aspire to become?
     1. high-tech? with important / foundational technology developed in-house?
@@ -47,5 +48,10 @@
     1. Will we operate our own products? Or license them to 3rd parties? Or both? What are the requirements arising from this?
 
 ### Technology selection
+
+ 1. lean to the open source
+ 1. pick tech backed by strong teams
+ 1. ignore bullshit and hype
+ 1. try the tech, build prototypes
 
 
