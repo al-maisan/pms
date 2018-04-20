@@ -55,8 +55,9 @@
 ### Security
 
 #### Requirements
- 1. What needs to be secure to what degree
+ 1. What needs to be secure to what degree?
  1. 
+
 #### The nitty-gritty
 
  1. do a first threat model / risk analysis pass
