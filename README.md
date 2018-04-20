@@ -69,22 +69,22 @@
  1. do a first threat model / risk analysis pass
  1. educate people on [opsec](https://www.tripwire.com/state-of-security/security-data-protection/opsec-everyone-not-just-people-something-hide/) (particularly the business types)
  1. secure **all** accounts with 2FA ([trezor](https://doc.satoshilabs.com/trezor-user/u2f.html)?, [yubikey](https://www.yubico.com/product/yubikey-neo/)?)
- 1. internal artefact classification system (public / confidential / secret); how are artefacts secured?
- 1. Facilitate access on a "need to know basis"; how do we make sure the right people have appropriate access?
+ 1. internal artefact classification system (public / confidential / secret?); how are artefacts secured?
+ 1. Facilitate access on a "need to know basis"; how do we make sure the right people have appropriate access (authenticate, authorize, audit)?
  1. select the tools / providers for
     1. email (protonmail?)
     1. collaboration ([GSuite](https://gsuite.google.com/together/?user-benefits_activeEl=tab-connect)?, [wiki](https://www.atlassian.com/software/confluence), kanban board, scrum)
     1. messaging (signal / wire.com?)
- 1. migrate away from windows, lock down laptops / phones
+ 1. migrate away from windows, lock down business laptops / phones
 
 ### Technology selection
 
  1. define selection criteria up-front and in writing (what is important and what are we looking for?)
  1. lean toward open source
- 1. pick tech backed by strong teams
+ 1. pick tech backed by viable projects and strong teams
  1. ignore bullshit and hype
  1. try the tech, build prototypes
- 1. document the considered tech as well as what was chosen in the end for what reason
+ 1. document the considered tech as well as what was chosen in the end and for what reason
 
 ### Team
 
