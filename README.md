@@ -1,4 +1,4 @@
-# Project moonshot (PMS)
+# Project "moonshot"
 
 ## Top priorities
  1. Vision
@@ -27,7 +27,12 @@
  1. On what grounds?
  1. Which of these impact the technical side of the business?
 
-## Technology and engineering
+## Business
+
+ 1. budget planning?
+ 1. what is the budget for technology, engineering and R&D specifically?
+
+## Technology, engineering and R&D
 
 ### Culture
 
@@ -55,8 +60,9 @@
 ### Security
 
 #### Requirements
- 1. What needs to be secure to what degree?
- 1. 
+ 1. what needs to be secure to what degree?
+ 1. compliance environment (regulatory and industry)
+ 1. data exfiltration prevention
 
 #### The nitty-gritty
 
@@ -85,3 +91,7 @@
  1. concentric rings of people/teams according to their strategic relevance to the business, keep important talent close
  1. contract -> hire if at all possible, do not hire in high-bureaucracy/burden countries
  1. Both SG and CH are small / shallow engineering talent markets, identify and build a near-shore tech team/centre (Eastern Europe!)
+
+### Advisors
+
+We will need to retain advisors on crypto, security and blockchain matters. These people will not work for us full time but be available for design workshops as well as audits/assessments/QA for any solutions we come up with. See e.g. the [speaker's list here](https://binarydistrict.com/courses/master-workshop-off-the-chain/) to get an idea of the kind of people we will need to engage.
